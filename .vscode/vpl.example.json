@@ -1,0 +1,15 @@
+{
+  "useWebsocket": true,
+  "useUnsecureURL": false,
+  "hideInformations": false,
+  "dontRefreshInfos": false,
+  "protocol": "https",
+  "hostname": "moodle.caseine.org",
+  "path": "/mod/vpl/webservice.php",
+  "vplId": "17142",
+  "personalToken": "************",
+  "files": [
+    "IntegerTriplet.java",
+    "Executable.java"
+  ]
+}
